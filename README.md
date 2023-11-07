@@ -4,7 +4,7 @@ A simple TTS tool to implament into all your Javascript web pages.\
 ### Install
 Download the script and refrence it for example: ```<script src="ttstool.js"></script>```\
 or\
-Just use the Github raw content and no downloaded is needed: ```<script src="https://raw.githubusercontent.com/silvereengames/ttsutility/main/main.js"></script>```
+Just use the Github raw content and no downloaded is needed: ```<script src="https://raw.githubusercontent.com/silvereengames/ttsutility/main/ttstool.js"></script>```
 
 ### Use
 To be honest I just pulled all the code and API from responsivevoice.org so credits to them\
